@@ -22,8 +22,8 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: 
-    github: https://github.com/zhufangzhou
-    linkedIn: https://www.linkedin.com/in/fangzhou-zhu-b01b847b/
+    github: zhufangzhou
+    linkedIn: in/fangzhou-zhu-b01b847b/
     rss: rss
     # dribbble: jekyll
     # flickr:   jekyll
